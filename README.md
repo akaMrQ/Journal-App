@@ -8,19 +8,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need a GIT client. 
-Personal preference is **TortioseGIT**. A copy can be found at https://tortoisegit.org/download/.
-Alternative is **GitHub Desktop**. A copy can be found at https://desktop.github.com/.
-
 You will need an IDE or something similar. Personal preference is **Android Studio** as it comes with most of the prerequisites.
 A copy of **Android Studio** can be found at https://developer.android.com/studio/.
 
+If you desire more fine grain control or not using **Android Studio** you might need a GIT client. 
+Personal preference is **TortioseGIT**. A copy can be found at https://tortoisegit.org/download/.
+Alternative is **GitHub Desktop**. A copy can be found at https://desktop.github.com/.
+
 ### Installing
+
+Instructions on how to install **Android Studio** can be found at [here](https://developer.android.com/studio/install).
 
 Instructions on how to install **TortioseGIT** can be found [here](https://tortoisegit.org/docs/tortoisegit/tgit-intro-install.html).
 Instructions on how to install **GitHub Desktop** for [windows](https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/) or [mac](https://help.github.com/desktop/guides/getting-started-with-github-desktop/installing-github-desktop/#platform-mac).
-
-Instructions on how to install **Android Studio** can be found at [here](https://developer.android.com/studio/install).
 
 Once you downloaded and installed the prerequisites (the git client and IDE) ensure you have an active internet connection so that we can clone or download the source code.
 
