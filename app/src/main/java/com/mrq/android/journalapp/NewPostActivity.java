@@ -1,8 +1,5 @@
 package com.mrq.android.journalapp;
 
-
-package com.google.firebase.quickstart.database;
-
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.text.TextUtils;
@@ -16,8 +13,8 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.google.firebase.quickstart.database.models.Post;
-import com.google.firebase.quickstart.database.models.User;
+import com.mrq.android.journalapp.models.Post;
+import com.mrq.android.journalapp.models.User;
 
 import java.util.HashMap;
 import java.util.Map;

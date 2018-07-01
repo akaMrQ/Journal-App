@@ -11,9 +11,9 @@ import android.view.MenuItem;
 import android.view.View;
 
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.quickstart.database.fragment.MyPostsFragment;
-import com.google.firebase.quickstart.database.fragment.MyTopPostsFragment;
-import com.google.firebase.quickstart.database.fragment.RecentPostsFragment;
+import com.mrq.android.journalapp.fragment.MyPostsFragment;
+import com.mrq.android.journalapp.fragment.MyTopPostsFragment;
+import com.mrq.android.journalapp.fragment.RecentPostsFragment;
 
 public class  MainActivity extends BaseActivity {
 
@@ -78,7 +78,7 @@ public class  MainActivity extends BaseActivity {
         int i = item.getItemId();
         if (i == R.id.action_logout) {
             FirebaseAuth.getInstance().signOut();
-            startActivity(new Intent(this, SignInActivity.class));
+            startActivity(new Intent(this, GoogleSignInActivity.class));
             finish();
             return true;
         } else {
