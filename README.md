@@ -3,6 +3,8 @@ Andela Learning Community (ALC) #7DaysofCodeChallenge to create an android journ
 
 ![![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2FakaMrQ%2FJournal-App%2Fblob%2Fmaster%2Fpom.xml&query=string(%2F%2F*%5Blocal-name()%3D'java.version'%5D))
 ]([img.shields.io](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ## Getting Started
 
