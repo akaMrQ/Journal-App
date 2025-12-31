@@ -1,7 +1,8 @@
 # Journal-App
 Andela Learning Community (ALC) #7DaysofCodeChallenge to create an android journal application where in users can pen down their thoughts and feelings. 
 
-![21](img.shields.io)
+![![Dynamic XML Badge](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2FakaMrQ%2FJournal-App%2Fblob%2Fmaster%2Fpom.xml&query=string(%2F%2F*%5Blocal-name()%3D'java.version'%5D))
+](img.shields.io)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
